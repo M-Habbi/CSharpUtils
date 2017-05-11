@@ -1,8 +1,0 @@
-﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:Boolean x:Key="/Default/CoverageSessionsPersistenceManagerSettings/SessionPersistentData/=D91477B1B6C84481B2FF55A726349035/@KeyIndexDefined">True</s:Boolean>
-	<s:String x:Key="/Default/CoverageSessionsPersistenceManagerSettings/SessionPersistentData/=D91477B1B6C84481B2FF55A726349035/SnapshotLocation/@EntryValue">C:\Users\u4128\AppData\Local\Temp\ssm.Qypavax.tmp</s:String>
-	<s:String x:Key="/Default/CoverageSessionsPersistenceManagerSettings/SessionPersistentData/=D91477B1B6C84481B2FF55A726349035/ProductVersion/@EntryValue">2017.1.1</s:String>
-	<s:String x:Key="/Default/Environment/ContinuousTesting/PersistentDataLocation/@EntryValue">C:\Users\u4128\AppData\Local\Temp\JetBrains\ContinuousTesting\d0f31693-dd87-4603-9259-525cedeb26f1</s:String>
-	<s:String x:Key="/Default/Environment/ContinuousTesting/SnapshotLocation/@EntryValue">C:\Users\u4128\AppData\Local\Temp\ssm.Luvapax.tmp</s:String>
-	
-	</wpf:ResourceDictionary>
