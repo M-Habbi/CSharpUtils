@@ -1,0 +1,5 @@
+C:\Visual Studio 2015\Projects\Habbi.Utils\Habbi.Utils\bin\Debug\Habbi.Utils.dll
+C:\Visual Studio 2015\Projects\Habbi.Utils\Habbi.Utils\bin\Debug\Habbi.Utils.pdb
+C:\Visual Studio 2015\Projects\Habbi.Utils\Habbi.Utils\obj\Debug\Habbi.Utils.csprojResolveAssemblyReference.cache
+C:\Visual Studio 2015\Projects\Habbi.Utils\Habbi.Utils\obj\Debug\Habbi.Utils.dll
+C:\Visual Studio 2015\Projects\Habbi.Utils\Habbi.Utils\obj\Debug\Habbi.Utils.pdb
