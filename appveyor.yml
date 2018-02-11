@@ -1,3 +1,5 @@
+
+
 version: 1.0.{build}
 
 branches:
@@ -14,4 +16,5 @@ clone_depth: 2
 
 build_script:
 
-- cmd: msbuild Sources/Habbi.Utils.sln /logger:"C:\Program Files\AppVeyor\BuildAgent\Appveyor.MSBuildLogger.dll"
+- cmd: nuget restore && msbuild Sources/Habbi.Utils.sln /logger:"C:\Program Files\AppVeyor\BuildAgent\Appveyor.MSBuildLogger.dll"
+
