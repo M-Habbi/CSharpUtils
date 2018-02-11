@@ -1,7 +1,8 @@
 ﻿using System;
+
 #pragma warning disable 1573
 
-namespace Habbi.Utils
+namespace Habbi.Utils.Extensions
 {
     public static class DecimalExtensions
     {

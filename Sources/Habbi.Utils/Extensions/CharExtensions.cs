@@ -1,4 +1,4 @@
-﻿namespace Habbi.Utils
+﻿namespace Habbi.Utils.Extensions
 {
     public static class CharExtensions
     {

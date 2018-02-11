@@ -1,7 +1,8 @@
 ﻿using System;
+
 #pragma warning disable 1573
 
-namespace Habbi.Utils.Core
+namespace Habbi.Utils.Core.Extensions
 {
     public static class StringExtensions
     {
