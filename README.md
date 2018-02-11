@@ -1,5 +1,5 @@
 # C# Utils
-###This repository is a collection of C# code that I find helpful when working with C#.
+### This repository is a collection of C# code that I find helpful when working with C#.
 
 As for now, it only contains extension methods for a few types. For example:
 
