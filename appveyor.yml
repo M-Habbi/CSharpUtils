@@ -12,10 +12,6 @@ configuration: Release
 
 clone_depth: 2
 
-before_build:
+build_script:
 
-- cmd: nuget restore
-
-build:
-
-  verbosity: minimal
+- cmd: msbuild Sources/Habbi.Utils.sln /logger:"C:\Program Files\AppVeyor\BuildAgent\Appveyor.MSBuildLogger.dll"
