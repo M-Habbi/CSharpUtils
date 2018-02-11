@@ -18,6 +18,6 @@ before_build:
 
 build:
 
-  project: ./Sources
+  project: Sources\Habbi.Utils.sln
 
   verbosity: minimal
