@@ -16,5 +16,5 @@ clone_depth: 2
 
 build_script:
 
-- cmd: nuget restore && msbuild Sources/Habbi.Utils.sln /logger:"C:\Program Files\AppVeyor\BuildAgent\Appveyor.MSBuildLogger.dll"
+- cmd: nuget restore Sources/Habbi.Utils.sln && msbuild Sources/Habbi.Utils.sln /logger:"C:\Program Files\AppVeyor\BuildAgent\Appveyor.MSBuildLogger.dll"
 
