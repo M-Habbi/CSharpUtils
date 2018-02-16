@@ -2,6 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <Authors>Marco Habegger</Authors>
+    <Company />
+    <Description>A collection of utilities I collected.</Description>
+    <Copyright>Copyright © Marco Habegger 2018</Copyright>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
