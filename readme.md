@@ -32,4 +32,16 @@ if(myString.IsNullOrWhiteSpace())
 }
 ```
 
-I am trying to add more as I find something and the time for it
+I am trying to add more as I find something and the time for it to do so.
+
+## Content
+
+| .NET Framework     | .NET Core          |
+| :----------------- | :----------------- |
+| CharExtensions     | CharExtensions     |
+| DateTimeExtensions | DateTimeExtensions |
+| DecimalExtensions  | DecimalExtensions  |
+| DoubleExtensions   | DoubleExtensions   |
+| StringExtensions   | StringExtensions   |
+| TimeSpanExtensions | TimeSpanExtensions |
+
