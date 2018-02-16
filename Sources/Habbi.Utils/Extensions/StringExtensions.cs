@@ -4,6 +4,9 @@
 
 namespace Habbi.Utils.Extensions
 {
+    /// <summary>
+    ///     The class providing extension methods on <see cref="string" />s.
+    /// </summary>
     public static class StringExtensions
     {
         /// <summary>

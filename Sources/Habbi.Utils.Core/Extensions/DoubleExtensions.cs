@@ -1,5 +1,8 @@
 ﻿namespace Habbi.Utils.Core.Extensions
 {
+    /// <summary>
+    ///     The class providing extension methods on <see cref="double" />s.
+    /// </summary>
     public static class DoubleExtensions
     {
         /// <summary>

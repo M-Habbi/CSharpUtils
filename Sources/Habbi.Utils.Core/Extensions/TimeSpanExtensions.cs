@@ -4,6 +4,9 @@
 
 namespace Habbi.Utils.Core.Extensions
 {
+    /// <summary>
+    ///     The class providing extension methods on <see cref="TimeSpan" />s.
+    /// </summary>
     public static class TimeSpanExtensions
     {
         /// <summary>
