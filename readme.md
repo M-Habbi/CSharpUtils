@@ -1,7 +1,9 @@
 # C# Utils
-### This repository is a collection of C# code that I find helpful when working with C#.
 
-[![Build status](https://ci.appveyor.com/api/projects/status/g66hrxktvovucdfu/branch/master?svg=true)](https://ci.appveyor.com/project/taysumi/csharputils/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/g66hrxktvovucdfu/branch/master?svg=true)](https://ci.appveyor.com/project/taysumi/csharputils/branch/master)  
+This repository is a collection of code that I find helpful when working with C#.
+
+## Features
 
 As for now, it only contains extension methods for a few types. For example:
 
@@ -17,15 +19,16 @@ bool myBool = myString.IsNullOrWhiteSpace();
 ```
 
 This makes it more readable and looks definitely fancier in cases like these:
+
 ```csharp
 if(string.IsNullOrWhiteSpace(myString))
 {
-	// do stuff
+    // do stuff
 }
 
 if(myString.IsNullOrWhiteSpace())
 {
-	// do stuff
+    // do stuff
 }
 ```
 
