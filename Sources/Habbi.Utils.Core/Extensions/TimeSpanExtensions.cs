@@ -2,7 +2,7 @@
 
 #pragma warning disable 1573
 
-namespace Habbi.Utils.Extensions
+namespace Habbi.Utils.Core.Extensions
 {
     public static class TimeSpanExtensions
     {
