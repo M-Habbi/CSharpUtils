@@ -1,5 +1,7 @@
 ﻿using System;
 
+#nullable enable
+
 namespace Habbi.Utils.Core.Extensions
 {
     public static class CoreExtensions
@@ -16,7 +18,7 @@ namespace Habbi.Utils.Core.Extensions
         /// </summary>
         /// <typeparam name="T"></typeparam>
         /// <returns>The cast target <see cref="Type" /> or null if the cast fails</returns>
-        public static T As<T>(this object @this) where T : class => @this as T;
+        public static T? As<T>(this object @this) where T : class => @this as T;
 
         /// <summary>
         ///     Gets nameof(this).
